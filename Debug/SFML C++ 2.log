@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\91958\source\repos\SFML C++ 2\Game.cpp(9,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\91958\source\repos\SFML C++ 2\Game.cpp(96,25): warning C4018: '<': signed/unsigned mismatch
+  SFML C++ 2.vcxproj -> C:\Users\91958\source\repos\SFML C++ 2\Debug\SFML C++ 2.exe
